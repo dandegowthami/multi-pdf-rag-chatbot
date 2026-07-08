@@ -1,0 +1,26 @@
+# Environment
+.env
+Backend/.env
+
+# Python
+__pycache__/
+*.pyc
+
+# ChromaDB
+Backend/vectorstore/
+vectorstore/
+
+# Uploaded PDFs
+Backend/data/pdfs/
+data/pdfs/
+
+# Node
+node_modules/
+
+# Virtual Environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/

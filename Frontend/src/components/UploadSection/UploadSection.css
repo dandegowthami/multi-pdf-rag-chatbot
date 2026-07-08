@@ -1,0 +1,57 @@
+.message{
+
+  margin-top:10px;
+
+  color:green;
+
+  font-weight:600;
+}
+
+.documents-section{
+
+  margin-top:25px;
+}
+
+.documents-section h4{
+
+  margin-bottom:15px;
+}
+
+.document-card{
+
+  display:flex;
+
+  justify-content:space-between;
+
+  align-items:center;
+
+  padding:12px;
+
+  margin-bottom:10px;
+
+  border-radius:10px;
+
+  background:#f8fafc;
+
+  border:1px solid #e5e7eb;
+}
+
+.delete-btn{
+
+  border:none;
+
+  background:#ef4444;
+
+  color:white;
+
+  padding:6px 12px;
+
+  border-radius:6px;
+
+  cursor:pointer;
+}
+
+.delete-btn:hover{
+
+  background:#dc2626;
+}

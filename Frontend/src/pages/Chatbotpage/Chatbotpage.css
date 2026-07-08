@@ -1,0 +1,53 @@
+.chatbot-page{
+
+  background:#f5f7fb;
+
+  min-height:100vh;
+
+  padding:20px;
+}
+
+.top-bar{
+
+  background:white;
+
+  padding:20px;
+
+  border-radius:12px;
+
+  display:flex;
+
+  justify-content:space-between;
+
+  align-items:center;
+
+  margin-bottom:20px;
+
+  box-shadow:
+  0 2px 10px rgba(0,0,0,.05);
+}
+
+.top-bar h2{
+
+  margin:0;
+}
+
+.top-bar span{
+
+  color:gray;
+}
+
+.top-bar button{
+
+  border:none;
+
+  background:#2563eb;
+
+  color:white;
+
+  padding:10px 20px;
+
+  border-radius:8px;
+
+  cursor:pointer;
+}
